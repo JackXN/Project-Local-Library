@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Project-Local-Library
 
 
@@ -36,6 +37,10 @@
 - The project employs at least one helper function, which helps support the tested functions.
 
 - The project uses at least two of the following JavaScript features: the ternary operator, the spread operator, object shorthand, array or object destructuring, and for/in loops.
+=======
+# Project-Local-Library
+A vanilla JavaScript Local Library Project
+>>>>>>> a278692354d77ca7ec6ded0be2057b1c7ddbde76
 
 
 
